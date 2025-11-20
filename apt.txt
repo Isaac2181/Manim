@@ -1,3 +1,16 @@
 libcairo2-dev
 libpango1.0-dev
 pkg-config
+build-essential
+gcc
+cmake
+libcairo2-dev
+libffi-dev
+libpango1.0-dev
+freeglut3-dev
+ffmpeg
+pkg-config
+make
+wget
+ghostscript
+fonts-noto
